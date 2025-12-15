@@ -24,5 +24,5 @@ Using an E. coli gene (3,075 nucleotides):
 
 ## Sample output
 
-![Nucleotide Frequency Chart]
+Nucleotide Frequency Chart
 <img width="888" height="587" alt="image" src="https://github.com/user-attachments/assets/c0c38eb9-cb58-4309-91f8-d28ee6f244da" />
