@@ -15,7 +15,7 @@ Using an E. coli gene (3,075 nucleotides):
 - **ATG occurrences:** 58
 - **Nucleotide counts:** A=678, T=667, C=842, G=888
 
-### K-mer Analysis
+# K-mer Analysis
 - Implements k-mer counter for any k value
 - Visualizes k-mer frequency distribution
 - Compares k-mer statistics across different k sizes
